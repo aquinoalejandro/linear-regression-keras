@@ -25,7 +25,7 @@ def main():
     plt.title('Recta de regresión')
     plt.show()
 
-    #debo aclarar que cambie los datos del ejercicio para que se vea tanto el emc como la recta de regresión
-    #tambien tuve que modificar la cantidad de epocas porque a mi compu no le da la potencia.
+    # debo aclarar que cambie los datos del ejercicio para que se vea tanto el ECM como la recta de regresión
+    # tambien tuve que modificar la cantidad de epocas porque a mi compu no le da la potencia.
 
 main()
